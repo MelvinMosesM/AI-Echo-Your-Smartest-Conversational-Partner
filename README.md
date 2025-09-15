@@ -45,6 +45,8 @@ AI Echo is a machine learning–powered sentiment analysis tool that classifies 
 ├── requirements.txt         # Project dependencies
 ├── README.md                # Project documentation
 
+```
+
 ## **📊 Example Usage  **
 
 - **Enter Text:**  
